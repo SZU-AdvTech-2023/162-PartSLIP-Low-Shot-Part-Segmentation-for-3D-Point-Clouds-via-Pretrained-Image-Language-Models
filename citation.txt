@@ -1,0 +1,7 @@
+@inproceedings{REPO162,
+    author = "Liu, Minghua and Zhu, Yinhao and Cai, Hong and Han, Shizhong and Ling, Zhan and Porikli, Fatih and Su, Hao",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "21736--21746",
+    title = "{PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models}",
+    year = "2023"
+}
